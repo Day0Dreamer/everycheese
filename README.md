@@ -1,5 +1,6 @@
-[![codecov](https://codecov.io/gh/Day0Dreamer/everycheese/branch/master/graph/badge.svg)](https://codecov.io/gh/Day0Dreamer/everycheese)
-
+.. image:: https://codecov.io/gh/Day0Dreamer/everycheese/branch/master/graph/badge.svg
+  :target: https://codecov.io/gh/Day0Dreamer/everycheese
+  
 EveryCheese
 ==============================
 
